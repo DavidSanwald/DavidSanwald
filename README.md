@@ -1,5 +1,13 @@
-<h1 align="left">Hi 👋, I'm David</h1>
-<h3 align="left">I like to build things.</h3>
+### Hello there :hugs:
+#### I'm David a software engineer from Berlin
+I don't care about my pronouns but will do my best to respect yours. 
+
+
+##### About me
+- I learned to write code because I wanted to understand Ai
+- I'm embarrassingly proud about that [one time](https://www.youtube.com/watch?v=_VAyVqotXdw&t=2435s) I was mentioned at NeurIPS. 
+- I adore [slow lorises](https://www.youtube.com/watch?v=XiFkyR35v2Y)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
