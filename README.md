@@ -3,6 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Inviting First Time Contributors by Offering Mentorship](https://dev.to/davidsanwald/inviting-first-time-contributors-by-offering-mentorship-2aaf)
+- [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
+- [How Do You Create Axis for Charts in React DOM (no D3 enter/update)](https://dev.to/davidsanwald/how-do-you-create-axis-for-charts-in-react-dom-no-d3-enter-update-441c)
+- [Touch Typing- The Most Important Skill For Developers Nobody Talks About](https://dev.to/davidsanwald/touch-typing-the-most-important-skill-for-developers-nobody-talks-about-3352)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
