@@ -11,7 +11,6 @@ I don't care about my pronouns but will do my best to respect yours.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [War is Peace, Freedom is Slavery and Jira is Agile](https://dev.to/davidsanwald/war-is-peace-freedom-is-slavery-and-jira-is-agile-49j3)
 - [How to Design Better Types in Typescript by Following One Simple Principle](https://dev.to/davidsanwald/how-to-design-better-types-in-typescript-by-following-one-simple-principle-1eia)
 - [Touch Typing- The Most Important Skill For Developers Nobody Talks About](https://dev.to/davidsanwald/touch-typing-the-most-important-skill-for-developers-nobody-talks-about-3352)
 <!-- BLOG-POST-LIST:END -->
