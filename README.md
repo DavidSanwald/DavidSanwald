@@ -1,3 +1,9 @@
+
+
+**looking for a new team, that loves to learn each other and with each other, while building awesome stuff.**
+
+
+
 ### Hello there :hugs:
 #### I'm David a software engineer from Berlin
 I don't care about my pronouns but will do my best to respect yours. 
